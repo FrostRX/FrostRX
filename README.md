@@ -6,5 +6,4 @@
 
 <p align="center">Soy <strong>Desarrollador JavaScript Full Stack</strong>.
 
-
-# 📝 Projectos actuales 
+   <hr/>
