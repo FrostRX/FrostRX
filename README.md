@@ -1,6 +1,6 @@
 
 <p align="center" width="300">
-   <img align="center" width="200" src="https://cdn.discordapp.com/avatars/550266877591420928/22ff574e533e8043a0ff4b20dd52ad0a.webp?size=4096" />
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/69714708?s=400&u=43e3e3cfac77842860c4e3c3e459c7450386ee50&v=4" />
    <h3 align="center">¡Hey 👋! Soy ByFr0st 👨🏻‍💻</h3>
 </p>
 
